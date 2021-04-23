@@ -17,6 +17,11 @@ body {
     min-height: 120vh; 
 }
 
+#container-shop1 {
+    background-color: #eeeeeeff;
+    min-height: 130vh; 
+}
+
 .about{
     font-size: 18px;
     font-weight: 300;
